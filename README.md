@@ -1,4 +1,4 @@
 # maplestory-guild-manager
 
-- FE = Next.js + TailwindCSS + styled-component
+- FE = Solid.js + TailwindCSS
 - BE = F# + Giraffe
